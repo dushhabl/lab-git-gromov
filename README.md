@@ -20,3 +20,16 @@
 - JavaScript
 - Git
 
+ ## Установка
+
+1. Клонировать репозиторий:
+  	```bash
+  	git clone https://github.com/dushhabl/lab-git-gromov.git
+  	```
+2. Перейти в папку проекта:
+  	```bash
+  	cd lab-git-gromov
+  	```
+3. Открыть файл `index.html` в браузере.
+
+
